@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BlackJack</string>
+    <string name="start_game">START GAME</string>
+    <string name="dealer">Dealer - </string>
+    <string name="player">Player - </string>
+    <string name="exit">Exit</string>
+    <string name="restart">Restart</string>
+    <string name="ok">OK</string>
+    <string name="game_over">Game Over</string>
+    <string name="choose_the_value_of_ace">Choose the value of Ace</string>
+    <string name="_1">1</string>
+    <string name="_11">11</string>
+    <string name="choose_to_hit_stay">Choose to Hit/Stay?</string>
+    <string name="stay">STAY</string>
+    <string name="hit">HIT</string>
+</resources>
